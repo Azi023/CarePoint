@@ -1,2 +1,2 @@
 # CarePoint
-A website for a Online Vaccination portal during the pandemic.
+A website for an Online Vaccination portal during the pandemic.
